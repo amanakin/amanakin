@@ -2,6 +2,6 @@
 
 ### Here some info:
 * MIPT '24 student
-* mail: [manakin.as@phystech.edu](mailto:manakin.as@phystech.edu)
+* mail: [anton.manakin@gmail.com](mailto:anton.manakin@gmail.com)
 
 ### Check my projects:
