@@ -2,6 +2,7 @@
 
 ### Here some info:
 * MIPT '24 student
-* mail: [anton.manakin@gmail.com](mailto:anton.manakin@gmail.com)
+* Mail: [anton.manakin@gmail.com](mailto:anton.manakin@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/amanakin/](https://www.linkedin.com/in/amanakin/)
 
 ### Check my projects:
